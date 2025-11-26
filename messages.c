@@ -7,6 +7,7 @@ void bryan() {
 }
 int main() {
     bryan();
+    printf("This is after branch1 was made");
     // Call your function after this.
     return 0;
 }
